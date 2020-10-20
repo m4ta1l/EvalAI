@@ -4,7 +4,7 @@
 			{
 				"name": "postgres",
 				"tag": "10.4",
-				"digest": "9625c2fb34986a49cbf2f5aa225d8eb07346f89f7312f7c0ea19d82c3829fdaa",
+				"digest": "",
 				"service": "db"
 			},
 			{
