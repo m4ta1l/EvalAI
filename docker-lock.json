@@ -4,7 +4,7 @@
 			{
 				"name": "postgres",
 				"tag": "10.4",
-				"digest": "",
+				"digest": "9625c2fb34986a49cbf2f5aa225d8eb07346f89f7312f7c0ea19d82c3829fdaa",
 				"service": "db"
 			},
 			{
@@ -31,7 +31,7 @@
 			{
 				"name": "pakohan/elasticmq",
 				"tag": "latest",
-				"digest": "",
+				"digest": "34f4dbf02f503e8ace1af08cb3610902f8eee2a262bf5ba33244dec64fb3f645",
 				"service": "sqs"
 			},
 			{
