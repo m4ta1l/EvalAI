@@ -10,21 +10,21 @@
 			{
 				"name": "python",
 				"tag": "3.6.5",
-				"digest": "c49ab7d5121521de57653c7209e68102d057ed77aff9859e8a9603b36105911a",
+				"digest": "",
 				"dockerfile": "docker/dev/django/Dockerfile",
 				"service": "django"
 			},
 			{
 				"name": "node",
 				"tag": "8.11.2",
-				"digest": "27de81e59a343a4345d800f37582cc326d215d8527874c7886e498627be2f330",
+				"digest": "",
 				"dockerfile": "docker/dev/nodejs/Dockerfile",
 				"service": "nodejs"
 			},
 			{
 				"name": "node",
 				"tag": "12.2.0",
-				"digest": "3d4411d1933dc93e78b9e0de556a22178269952b98cbbea7ca935d890527ae27",
+				"digest": "",
 				"dockerfile": "docker/dev/nodejs_v2/Dockerfile",
 				"service": "nodejs_v2"
 			},
