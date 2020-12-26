@@ -4,34 +4,34 @@
 			{
 				"name": "postgres",
 				"tag": "10.4",
-				"digest": "",
+				"digest": "9625c2fb34986a49cbf2f5aa225d8eb07346f89f7312f7c0ea19d82c3829fdaa",
 				"service": "db"
 			},
 			{
 				"name": "python",
 				"tag": "3.6.5",
-				"digest": "",
+				"digest": "c49ab7d5121521de57653c7209e68102d057ed77aff9859e8a9603b36105911a",
 				"dockerfile": "docker/dev/django/Dockerfile",
 				"service": "django"
 			},
 			{
 				"name": "node",
 				"tag": "8.11.2",
-				"digest": "",
+				"digest": "27de81e59a343a4345d800f37582cc326d215d8527874c7886e498627be2f330",
 				"dockerfile": "docker/dev/nodejs/Dockerfile",
 				"service": "nodejs"
 			},
 			{
 				"name": "node",
 				"tag": "12.2.0",
-				"digest": "",
+				"digest": "3d4411d1933dc93e78b9e0de556a22178269952b98cbbea7ca935d890527ae27",
 				"dockerfile": "docker/dev/nodejs_v2/Dockerfile",
 				"service": "nodejs_v2"
 			},
 			{
 				"name": "pakohan/elasticmq",
 				"tag": "latest",
-				"digest": "",
+				"digest": "34f4dbf02f503e8ace1af08cb3610902f8eee2a262bf5ba33244dec64fb3f645",
 				"service": "sqs"
 			},
 			{
