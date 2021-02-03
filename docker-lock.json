@@ -17,7 +17,7 @@
 			{
 				"name": "node",
 				"tag": "8.11.2",
-				"digest": "27de81e59a343a4345d800f37582cc326d215d8527874c7886e498627be2f330",
+				"digest": "",
 				"dockerfile": "docker/dev/nodejs/Dockerfile",
 				"service": "nodejs"
 			},
